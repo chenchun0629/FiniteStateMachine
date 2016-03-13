@@ -1,0 +1,16 @@
+{
+    "name": "pangou/finite-state-machine",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenchun0629",
+            "email": "pangou@live.cn"
+        }
+    ],
+    "require": {
+        "illuminate/events": "^5.2"
+    },
+    "autoload": {
+        "psr-4": { "Pangou\\FiniteStateMachine\\": "src" }
+    }
+}
